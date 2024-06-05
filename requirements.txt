@@ -1,0 +1,6 @@
+flask
+requests
+faster-whisper
+tk
+python-dotenv
+
